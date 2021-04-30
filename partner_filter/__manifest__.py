@@ -13,7 +13,7 @@
     'website': "https://ondevelop.tech/",
     'category': 'Sales/Purchase/Human Resources',
     'version': '14.0.1',
-    'license': 'OPL-1',
+    'license': 'LGPL-3',
     'price': 9,
     'currency': 'USD',
     'support': "ondevelop.sa@gmail.com",
