@@ -3,7 +3,7 @@
 # Autor: Idelis Gé Ramírez
 # Part of onDevelop.SA. See LICENSE file for full copyright and licensing details.
 {
-    'name': "partner_filter",
+    'name': "Partner Filter",
     'summary': """Filter partners between customer or supplier.""",
     'description': """
         Only the customers are selectables in the Quotation view and  only the
